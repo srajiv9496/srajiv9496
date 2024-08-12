@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rajiv Kumar Singh</h1>
 <h3 align="center">I'm a dedicated backend developer with a strong proficiency in PHP, Laravel, MySQL, and JavaScript. I have hands-on experience working with the MERN stack, allowing me to build robust and scalable applications. My passion lies in crafting clean, efficient, and well-documented code that delivers real-world solutions. Whether it's optimizing databases, developing RESTful APIs, or integrating front-end technologies, I'm always eager to take on new challenges and grow my skill set.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srajiv9496&label=Profile%20views&color=0e75b6&style=flat" alt="srajiv9496" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srajiv9496" alt="srajiv9496" /></a> </p>
-
 - 🔭 I’m currently working on [Job Platform](https://github.com/srajiv9496/Job_Platform)
 
 - 🌱 I’m currently learning **MERN**
