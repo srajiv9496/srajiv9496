@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rajiv Kumar Singh</h1>
+![image](https://github.com/user-attachments/assets/4362d750-f13e-4eea-ad86-55faf0e34051)<h1 align="center">Hi 👋, I'm Rajiv Kumar Singh</h1>
 <h3 align="center">I'm a dedicated backend developer with a strong proficiency in PHP, Laravel, MySQL, and JavaScript. I have hands-on experience working with the MERN stack, allowing me to build robust and scalable applications. My passion lies in crafting clean, efficient, and well-documented code that delivers real-world solutions. Whether it's optimizing databases, developing RESTful APIs, or integrating front-end technologies, I'm always eager to take on new challenges and grow my skill set.</h3>
+
+<img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/YZxeMXuU5vZSFTezxbsY1vqYrT0udVZlIHuRkh3QAhE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtY293Ym95LWNv/bXB1dGVyLWNvZGlu/Zy13NjBwY2lrbDZp/ZWc1MjVuLmdpZg.gif">
 
 - 🔭 I’m currently working on [Job Platform](https://github.com/srajiv9496/Job_Platform)
 
