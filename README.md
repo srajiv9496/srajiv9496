@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **srajiv9496@gmail.com**
 
-- 📄 Know about my experiences checkout my [Resume](https://drive.google.com/file/d/1uu4ogqYIZF8pxPb0lHid9SlTTJC7BP9m/view?usp=drive_link)
+- 📄 To know about my experiences checkout my [Resume](https://drive.google.com/file/d/1GF7GazEnAW1wQIWgKFo9TtS28E6LqK0Q/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
