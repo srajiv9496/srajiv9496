@@ -11,8 +11,7 @@
 
 - 📫 How to reach me **srajiv9496@gmail.com**
 
-- 📄 To know about my experiences checkout my [Resume](https://drive.google.com/file/d/1GF7GazEnAW1wQIWgKFo9TtS28E6LqK0Q/view?usp=drive_link)
-
+- 📄 To know about my experiences checkout my [Resume](https://drive.google.com/file/d/1hNuWyXltEJzzhpIuJXeqb5JflmBMvOsy/view?usp=drive_link)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/srajiv9496" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srajiv9496" height="30" width="40" /></a>
