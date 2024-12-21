@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 💬 Ask me about **PHP, Laravel**
+- 💬 Ask me about **PHP, Laravel, JS & NODE**
 
 - 📫 How to reach me **srajiv9496@gmail.com**
 
