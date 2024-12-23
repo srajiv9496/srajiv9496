@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="https://imgs.search.brave.com/YZxeMXuU5vZSFTezxbsY1vqYrT0udVZlIHuRkh3QAhE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtY293Ym95LWNv/bXB1dGVyLWNvZGlu/Zy13NjBwY2lrbDZp/ZWc1MjVuLmdpZg.gif">
 
-- 🔭 I’m currently working on [Job Platform](https://github.com/srajiv9496/Job_Platform)
+- 🔭 I’m currently working on **MERN**
 
 - 🌱 I’m currently learning **MERN**
 
