@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **DOCKER**
 
 - 💬 Ask me about **PHP, Laravel, JS & NODE**
 
